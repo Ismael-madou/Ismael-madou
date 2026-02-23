@@ -1,3 +1,8 @@
+<!-- README.md -->
+
+<!-- Photo en haut du README -->
+<img src="photo.jpg" alt="Ismaël Madou" width="150" style="border-radius: 50%;" />
+
 # 👋 Hello, I'm **Ismaël Madou Gagi**
 
 Welcome to my GitHub!  
@@ -25,8 +30,8 @@ My goal: transform data into **operational value** and create AI solutions that 
 |--------|--------|
 | **Data Engineering** | ETL, automated pipelines, cloud data (AWS, GCP), SQL/NoSQL |
 | **AI & RAG** | LLMs, RAG, embeddings, fine-tuning, NLP |
-| **Languages** | Python, R, SQL, VBA, SAS |
-| **Tools & Platforms** | Git/GitHub, Jupyter, Docker, Power BI, CI/CD |
+| **Languages** | Python, R, SQL, VBA |
+| **Tools & Platforms** | Git/GitHub, Jupyter, Airflow, Docker, Power BI |
 | **Methodologies** | Machine Learning, applied statistics, exploratory data analysis |
 
 ---
